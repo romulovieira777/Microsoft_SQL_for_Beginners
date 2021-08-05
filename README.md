@@ -7,5 +7,6 @@
 - [Section 02 - Microsoft SQL (T-SQL) Commands](https://github.com/romulovieira777/Microsoft_SQL_for_Beginners/tree/main/Section%2002%20-%20Microsoft%20SQL%20(T-SQL)%20Commands)
 - [Section 03 - Microsoft SQL CRUD Operations](https://github.com/romulovieira777/Microsoft_SQL_for_Beginners/tree/main/Section%2003%20-%20Microsoft%20SQL%20CRUD%20Operations)
 - [Section 04 - Filtering Data](https://github.com/romulovieira777/Microsoft_SQL_for_Beginners/tree/main/Section%2004%20-%20Filtering%20Data)
+- [Section 05 - Sorting Data](https://github.com/romulovieira777/Microsoft_SQL_for_Beginners/tree/main/Section%2005%20-%20Sorting%20Data)
 
 Link to course: [Udemy](https://www.udemy.com/course/microsoft-sql-for-beginners-ms-sql-servert-sql-ssms/)
