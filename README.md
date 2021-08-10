@@ -8,5 +8,7 @@
 - [Section 03 - Microsoft SQL CRUD Operations](https://github.com/romulovieira777/Microsoft_SQL_for_Beginners/tree/main/Section%2003%20-%20Microsoft%20SQL%20CRUD%20Operations)
 - [Section 04 - Filtering Data](https://github.com/romulovieira777/Microsoft_SQL_for_Beginners/tree/main/Section%2004%20-%20Filtering%20Data)
 - [Section 05 - Sorting Data](https://github.com/romulovieira777/Microsoft_SQL_for_Beginners/tree/main/Section%2005%20-%20Sorting%20Data)
+- [Section 06 - Extracting Data from Multiple Tables using Joins](https://github.com/romulovieira777/Microsoft_SQL_for_Beginners/tree/main/Section%2006%20-%20Extracting%20Data%20from%20Multiple%20Tables%20using%20Joins)
+- [Section 07 - Aggregate Functions](https://github.com/romulovieira777/Microsoft_SQL_for_Beginners/tree/main/Section%2007%20-%20Aggregate%20Functions)
 
 Link to course: [Udemy](https://www.udemy.com/course/microsoft-sql-for-beginners-ms-sql-servert-sql-ssms/)
